@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables (Secrets)
+.env
+
+# VS Code
+.vscode/
+
+# Generated Data Files
+weather_data.json
+weather_report.xlsx
+weather_data.db
+
+# Logs
+*.log
